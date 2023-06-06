@@ -18,7 +18,7 @@ export default function Home() {
         <CenterProvider
           network="ethereum-goerli"
           mode="production"
-          apiKey="YOUR_API_KEY"
+          apiKey="key98d1ca9fc093cfad486fcb0e"
         >
           <div style={{ width: 300 }}>
             <Asset
